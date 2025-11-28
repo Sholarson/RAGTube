@@ -37,19 +37,11 @@ ollama pull bge-m3
 - **llama3.2**: Used for generating answers and summarizing content
 - **bge-m3**: Used for creating vector embeddings
 
-### Start Ollama Server
+### Start Ollama Server on another tab
 ```bash
 ollama serve
 ```
 
-### Install Whisper & FFmpeg
-Follow the installation instructions at: [https://github.com/openai/whisper](https://github.com/openai/whisper)
-
-This guide covers installing:
-- **Whisper** (large-v2 model for speech-to-text transcription)
-- **FFmpeg** (required for audio processing)
-
----
 
 ## 📹 **4. Download YouTube Videos**
 
