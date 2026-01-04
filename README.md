@@ -138,9 +138,3 @@ RAGTube/
 - ✅ Timestamp-based search
 - ✅ Multi-language support
 - ✅ RAG-powered answers
-
----
-
-## 📄 **License**
-
-Open-source and free to use.
