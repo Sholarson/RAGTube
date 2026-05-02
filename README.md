@@ -9,8 +9,8 @@ Everything runs **100% locally** using **Ollama**, **Whisper**, and **open-sourc
 ## 🚀 **1. Python & Pip Version**
 
 This project works with:
-- **Python: 3.10 → 3.13**
-- **pip: 23.x → 25.x**
+- **Python: 3.10 and above**
+- **pip: 23.x and above**
 
 (Confirmed working on **Python 3.13.7** and **pip 25.2**.)
 
