@@ -1,6 +1,6 @@
 # **RAGTube**
 
-RAGTube is a fully local, open-source RAG (Retrieval-Augmented Generation) system that explains topics from YouTube videos by **downloading**, **transcribing**, **embedding**, **retrieving**, and **summarizing** video content.  
+RAGTube is a fully local, open-source RAG (Retrieval-Augmented Generation) system that explains topics from YouTube videos by **downloading**, **transcribing**, **embedding** and **retrieving** video content.  
 
 Everything runs **100% locally** using **Ollama**, **Whisper**, and **open-source LLMs** — no APIs, no cloud, no paid services.
 
